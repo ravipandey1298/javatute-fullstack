@@ -1,0 +1,14 @@
+package com.learning.variables;
+
+public class Variables1 {
+	int instanceVariable;	// INSTANCE VARIBAL / DECLARATIVE STATEMENT		
+}
+
+class Variables{
+	public static void main(String[] args) {
+		int variable;
+		
+		Variables1 va = new Variables1();
+		System.out.println(va.instanceVariable);
+	}
+}

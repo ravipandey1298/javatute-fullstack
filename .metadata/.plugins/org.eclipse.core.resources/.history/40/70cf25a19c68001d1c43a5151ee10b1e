@@ -1,0 +1,12 @@
+
+public class FirstProgram {
+	
+	int data = 4;
+	float data = 4;
+	
+	
+	
+	public static void main(String[] args) {
+		
+	}
+}
