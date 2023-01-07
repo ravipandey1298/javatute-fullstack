@@ -4,4 +4,8 @@
     <fullyQualifiedTypeName name="com.classobject.tutorial.Customer"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="MethodsJava"/>
+    <fullyQualifiedTypeName name="Parametereised_Constructor.Customer"/>
+    <fullyQualifiedTypeName name="MultipleConstructors.Customer"/>
+    <fullyQualifiedTypeName name="MultipleConstructors.PublicClassToTest"/>
+    <fullyQualifiedTypeName name="MultipleConstructors.PrivateClass"/>
 </qualifiedTypeNameHistroy>

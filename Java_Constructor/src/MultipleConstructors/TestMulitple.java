@@ -16,5 +16,6 @@ public class TestMulitple {
 		System.out.println(c1.address);
 		
 		PrivateClass test = new PrivateClass();
+		test.name = "Ravi";
 	}
 }	
