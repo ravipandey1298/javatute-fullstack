@@ -34,7 +34,7 @@ public class Order {
 	public double calculateTotalPrice(String paymentMode) {
 		double foodPrice = 0;
 		double finalPrice = 0;
-		float serviceCharge = 0f;
+		float serviceCharge = 0f;  // Order Burger, 2 Pizza
 		for (Food food : orderedFoods) {
 			foodPrice+=food.getUnitPrice()*1;
 		}

@@ -8,4 +8,6 @@
     <fullyQualifiedTypeName name="MultipleConstructors.Customer"/>
     <fullyQualifiedTypeName name="MultipleConstructors.PublicClassToTest"/>
     <fullyQualifiedTypeName name="MultipleConstructors.PrivateClass"/>
+    <fullyQualifiedTypeName name="staticJ.tutorial.Customer"/>
+    <fullyQualifiedTypeName name="inheritance.tutorial.RegularCustomer"/>
 </qualifiedTypeNameHistroy>
