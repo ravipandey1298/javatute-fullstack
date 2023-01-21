@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.classobject.tutorial.Customer"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="MethodsJava"/>
@@ -10,4 +9,11 @@
     <fullyQualifiedTypeName name="MultipleConstructors.PrivateClass"/>
     <fullyQualifiedTypeName name="staticJ.tutorial.Customer"/>
     <fullyQualifiedTypeName name="inheritance.tutorial.RegularCustomer"/>
+    <fullyQualifiedTypeName name="agreegation.tutorial.Order"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="Userdefined.Exception.NegativeMarksException"/>
+    <fullyQualifiedTypeName name="throwsJ.p.NegativeMarksException"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
 </qualifiedTypeNameHistroy>
